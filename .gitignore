@@ -1,0 +1,7 @@
+/.vscode
+
+/environment-software
+
+/build
+
+/output/*.exe
